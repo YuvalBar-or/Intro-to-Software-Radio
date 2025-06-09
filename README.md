@@ -28,19 +28,6 @@ This repository contains all labs for the **Introduction to Software Radio** cou
   - Understanding of sampling, signals, and basic DSP
 
 
----
-
-## Project 1: Waterfall Scanner
-- **Key Steps:**
-  1. Osmocom Source @106 MHz (I/Q sampling)
-  2. FIR LPF + decimation → FFT & Waterfall sinks
-  3. Quadrature Demod → audio chain → WAV & live playback
-
----
-
-## Project 2: Sound Modem
-tbc
-
 
 
 
